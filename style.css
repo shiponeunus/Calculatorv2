@@ -1,0 +1,17 @@
+.type{
+  font-size: 5em;
+  color: blue;
+  text-shadow: 5px 2px black;
+}
+
+.FortuneText{
+  color:red;
+  font-size: 5vmin;
+  text-shadow: 2px 2px black;
+  transform: rotateZ(-7deg);
+  transition: 1s;
+}
+
+#fortune-output{
+  display: flex;
+}
